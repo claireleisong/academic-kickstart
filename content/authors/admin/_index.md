@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student of Data Science in Computational Linguistics
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio: My interests include data science, natural language processing and financia
 interests:
 - Artificial Intelligence
 - Computational Linguistics
-- Information Retrieval
+- Data Science
 
 education:
   courses:
