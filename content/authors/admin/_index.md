@@ -68,6 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Claire Song is a student of Data Science in Computational Linguistics at the University of British Columbia. Her interests include data science, natual language processing and financial business models as well. Before her study at UBC, she worked as a tax analyst for a year and then worked in the procurement function of a Fortune 500 company sourcing CPU and memory. At the beginning of this year, she made a bold career change to step in the technology field from business field.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
